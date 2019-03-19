@@ -1,0 +1,44 @@
+body{
+background: #f5f6f6; /* Old browsers */
+background: -moz-linear-gradient(top, #f5f6f6 0%, #dbdce2 21%, #b8bac6 49%, #dddfe3 80%, #f5f6f6 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, #f5f6f6 0%,#dbdce2 21%,#b8bac6 49%,#dddfe3 80%,#f5f6f6 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, #f5f6f6 0%,#dbdce2 21%,#b8bac6 49%,#dddfe3 80%,#f5f6f6 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f5f6f6', endColorstr='#f5f6f6',GradientType=0 ); /* IE6-9 */
+margin:60px 0px; padding:0px;
+text-align:center;
+}
+h1
+{
+text-align: center;
+font-family:Arial, "Trebuchet MS", Helvetica, sans-serif;
+}
+h2
+{
+text-align: center;
+font-family:Arial, "Trebuchet MS", Helvetica, sans-serif;
+}
+a
+{
+text-decoration:none;
+width:75px;
+height:50px;
+border-color:black;
+border-top:2px solid;
+border-bottom:2px solid;
+border-right:2px solid;
+border-left:2px solid;
+border-radius:10px 10px 10px;
+-o-border-radius:10px 10px 10px;
+-webkit-border-radius:10px 10px 10px;
+font-family:"Trebuchet MS",Arial, Helvetica, sans-serif;
+-moz-border-radius:10px 10px 10px;
+background-color:#00878F;
+padding:8px;
+text-align:center;
+}
+a:link {color:white;}      /* unvisited link */
+a:visited {color:white;}  /* visited link */
+a:hover {color:orange;}  /* mouse over link */
+a:active {color:white;}  /* selected link */
+
+Visit http://progettiarduino.com
